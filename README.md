@@ -41,13 +41,4 @@ My **Kaggle Pandas Course Certificate**:
 
 ![Certificate](Certificate.png)
 
-## 🚀 How to Use This Repository
-
-1. Clone this repo:
-   ```sh
-   git clone https://github.com/your-username/kaggle-pandas-course.git
-   ```
-2. Open Jupyter Notebook or Google Colab.
-3. Explore and modify the notebooks to enhance your understanding.
-
 
